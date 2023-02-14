@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/sobhika-mahajan-16776b1b8/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="sobhikamjn@gmail.com">
+  <a href="mailto:sobhikamjn@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   <h1>
