@@ -32,9 +32,7 @@ I'm CS 3rd year student. Currently learning Data Structures and Algorithms, alon
 - 🔭 I’m currently working on HTML, CSS, Bootstrap, Javascript, JQuery, Data analysis
 - 🌱 I’m currently learning Machine learning
 - 👯 I’m looking to collaborate on some intresting real life projects
-- 🤔 I’m looking for help with ...
 - 📚 Reading technical analysis and personal finance books is my free time leisure.
-=
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: Started investing since the age of 19
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Sobhika-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sobhika-mahajan-16776b1b8/)
